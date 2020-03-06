@@ -1,2 +1,2 @@
 # LearnDeploy
-Este es un repositorio que lo uso para realizar un deploy  con react en heroku y digital ocean
+Para aprender a realizar  deployes  con react en heroku y digital oceanEste es un repositorio que lo uso p

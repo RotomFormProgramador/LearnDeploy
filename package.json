@@ -1,0 +1,20 @@
+{
+  "name": "LearnDeploy",
+  "version": "1.0.0",
+  "description": "Este es un repositorio que lo uso para realizar un deploy  con react en heroku y digital ocean",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RotomFormProgramador/LearnDeploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RotomFormProgramador/LearnDeploy/issues"
+  },
+  "homepage": "https://github.com/RotomFormProgramador/LearnDeploy#readme"
+}
